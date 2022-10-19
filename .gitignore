@@ -65,6 +65,8 @@
 !*.elf
 !*.bmm
 !*.xmp
+!*.C
+!*.h
 
 ### XilinxISE ###
 # intermediate build files
